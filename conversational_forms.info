@@ -1,0 +1,4 @@
+name = Conversational Forms
+description = "Adds ability to convert traditional forms into a more interactive avatar."
+core = 7.x
+package = Other
